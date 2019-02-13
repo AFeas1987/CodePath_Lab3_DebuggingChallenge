@@ -1,4 +1,4 @@
-# ## Lab 3 - Debugging Challenge
+# Lab 3 - Debugging Challenge
 
 ### App Description
 
